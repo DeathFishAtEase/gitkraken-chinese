@@ -148,8 +148,8 @@
     "AgentStatus-HooksUninstalledToastTitle": "{0} 钩子已卸载",
     "AgentStatus-InstallHooksFailedToastTitle": "安装 {0} 钩子失败",
     "AgentStatus-UninstallHooksFailedToastTitle": "卸载 {0} 钩子失败",
-    "AgentStatus-PluginInstalledToastTitle": "已安装 {0} 插件",
-    "AgentStatus-PluginUninstalledToastTitle": "已卸载 {0} 插件",
+    "AgentStatus-PluginInstalledToastTitle": "{0} 插件已安装",
+    "AgentStatus-PluginUninstalledToastTitle": "{0} 插件已卸载",
     "AgentStatus-InstallPluginFailedToastTitle": "安装 {0} 插件失败",
     "AgentStatus-UninstallPluginFailedToastTitle": "卸载 {0} 插件失败",
 
